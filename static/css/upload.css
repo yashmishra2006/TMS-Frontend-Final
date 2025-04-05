@@ -1,0 +1,106 @@
+/* Futuristic Upload Page Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Orbitron', sans-serif;
+    background: linear-gradient(135deg, #0e0e0e, #1a1a1a);
+    color: #e0e0e0;
+    min-height: 100vh;
+  }
+  
+  /* Top Navigation Bar */
+  .topnav {
+    background: linear-gradient(90deg, #00ffe1, #00b3ff);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .topnav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+  }
+  
+  .topnav ul li {
+    margin: 0 20px;
+  }
+  
+  .topnav ul li a {
+    display: block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: #0e0e0e;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background 0.3s ease;
+  }
+  
+  .topnav ul li a:hover,
+  .topnav ul li a.active {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+  }
+  
+  /* Upload Container */
+  .upload-container {
+    width: 400px;
+    background: rgba(0, 0, 0, 0.7);
+    margin: 80px auto;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+    text-align: center;
+  }
+  
+  .upload-container h1 {
+    margin-bottom: 30px;
+    color: #00ffe1;
+    text-shadow: 0 0 10px #00ffe1;
+  }
+  
+  /* Input Group */
+  .input-group {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 0.9rem;
+    color: #00b3ff;
+  }
+  
+  .input-group input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    background: #222;
+    color: #e0e0e0;
+    border: none;
+    border-radius: 8px;
+  }
+  
+  /* Button Styling */
+  .btn {
+    width: 100%;
+    padding: 15px;
+    background: linear-gradient(90deg, #00ffe1, #00b3ff);
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #0e0e0e;
+    cursor: pointer;
+    transition: transform 0.3s ease, background 0.3s ease;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+  }
+  
+  .btn:hover {
+    transform: scale(1.05);
+    background: linear-gradient(90deg, #00b3ff, #00ffe1);
+  }
+  

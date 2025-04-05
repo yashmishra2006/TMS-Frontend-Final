@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Upload - Futuristic Dashboard</title>
+  <!-- Google Fonts for futuristic feel -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/upload.css') }}" />
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <nav class="topnav">
+    <ul>
+        <li><a href="./" class="active">Home</a></li>
+        <li><a href="./upload">Upload</a></li>
+        <li><a href="./processed">Processed Videos</a></li>
+        <li><a href="./analysis">Analysis</a></li>
+    </ul>
+  </nav>
+
+  <div class="upload-container">
+    <h1>Upload Video</h1>
+    <form action="upload_handler.php" method="post" enctype="multipart/form-data">
+      <div class="input-group">
+        <label for="videoFile">Select Video File</label>
+        <input type="file" name="videoFile" id="videoFile" accept="video/*" required>
+      </div>
+      <button type="submit" class="btn">Upload</button>
+    </form>
+  </div>
+</body>
+</html>

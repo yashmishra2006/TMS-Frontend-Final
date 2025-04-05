@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Processed Videos - Futuristic Dashboard</title>
+  <!-- Google Fonts for futuristic feel -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/processed.css') }}" />
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <nav class="topnav">
+    <ul>
+        <li><a href="./" class="active">Home</a></li>
+        <li><a href="./upload">Upload</a></li>
+        <li><a href="./processed">Processed Videos</a></li>
+        <li><a href="./analysis">Analysis</a></li>
+    </ul>
+  </nav>
+
+  <div class="videos-container">
+    <h1>Processed Videos</h1>
+    <div class="videos-list">
+      <!-- Example video card. These can be generated dynamically from backend data -->
+      <div class="video-card">
+        <div class="video-th    umb">
+          <img src="thumbnail1.jpg" alt="Video Thumbnail">
+        </div>
+        <div class="video-info">
+          <h2>Video Title 1</h2>
+          <p>Processed on: 2025-03-27</p>
+          <a href="video_detail.html?id=1" class="btn">View Details</a>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div class="video-thumb">
+          <img src="thumbnail2.jpg" alt="Video Thumbnail">
+        </div>
+        <div class="video-info">
+          <h2>Video Title 2</h2>
+          <p>Processed on: 2025-03-26</p>
+          <a href="video_detail.html?id=2" class="btn">View Details</a>
+        </div>
+      </div>
+
+      <!-- Additional video cards can be added here -->
+    </div>
+  </div>
+</body>
+</html>

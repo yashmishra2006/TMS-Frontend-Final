@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Test Client</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.4/socket.io.js"></script>
+</head>
+<body>
+    <h1>WebSocket Data Viewer</h1>
+    <p>Live data from Flask WebSocket will appear below:</p>
+    <pre id="data-output">Waiting for data...</pre>
+
+    <script>
+        // Connect to Flask-SocketIO server
+        var socket = io("http://localhost:5000");
+
+        // Listen for dashboard updates
+        socket.on("dashboard_update", function(data) {
+            console.log("Received data:", data);
+            document.getElementById("data-output").textContent = JSON.stringify(data, null, 4);
+        });
+
+        // Handle connection issues
+        socket.on("connect_error", function(error) {
+            console.error("Connection failed:", error);
+        });
+    </script>
+</body>
+</html>

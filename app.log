@@ -1,0 +1,609 @@
+2025-04-04 12:05:21,500 - INFO -  * Detected change in 'c:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:21,575 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:21,575 - INFO -  * Restarting with stat
+2025-04-04 12:05:21,655 - INFO -  * Restarting with stat
+2025-04-04 12:05:22,225 - WARNING -  * Debugger is active!
+2025-04-04 12:05:22,228 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:22,279 - WARNING -  * Debugger is active!
+2025-04-04 12:05:22,282 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:27,329 - INFO -  * Detected change in 'c:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:27,357 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:27,378 - INFO -  * Restarting with stat
+2025-04-04 12:05:27,422 - INFO -  * Restarting with stat
+2025-04-04 12:05:27,915 - WARNING -  * Debugger is active!
+2025-04-04 12:05:27,918 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:27,948 - WARNING -  * Debugger is active!
+2025-04-04 12:05:27,950 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:29,943 - INFO -  * Detected change in 'c:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:29,999 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:30,053 - INFO -  * Restarting with stat
+2025-04-04 12:05:30,116 - INFO -  * Restarting with stat
+2025-04-04 12:05:30,875 - WARNING -  * Debugger is active!
+2025-04-04 12:05:30,878 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:30,902 - WARNING -  * Debugger is active!
+2025-04-04 12:05:30,904 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:35,968 - INFO -  * Detected change in 'c:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:35,985 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:36,064 - INFO -  * Restarting with stat
+2025-04-04 12:05:36,086 - INFO -  * Restarting with stat
+2025-04-04 12:05:36,810 - WARNING -  * Debugger is active!
+2025-04-04 12:05:36,814 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:36,825 - WARNING -  * Debugger is active!
+2025-04-04 12:05:36,828 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:40,886 - INFO -  * Detected change in 'c:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:40,901 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:05:40,945 - INFO -  * Restarting with stat
+2025-04-04 12:05:40,967 - INFO -  * Restarting with stat
+2025-04-04 12:05:41,496 - WARNING -  * Debugger is active!
+2025-04-04 12:05:41,500 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:05:41,512 - WARNING -  * Debugger is active!
+2025-04-04 12:05:41,514 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:06:29,409 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:06:29,460 - INFO -  * Detected change in 'c:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:06:29,509 - INFO -  * Restarting with stat
+2025-04-04 12:06:29,550 - INFO -  * Restarting with stat
+2025-04-04 12:06:30,074 - WARNING -  * Debugger is active!
+2025-04-04 12:06:30,076 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:06:30,103 - WARNING -  * Debugger is active!
+2025-04-04 12:06:30,105 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:09:03,976 - INFO -  * Restarting with stat
+2025-04-04 12:09:04,601 - WARNING -  * Debugger is active!
+2025-04-04 12:09:04,603 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:09:11,372 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[]], 'high_speed_violations': [0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:09:21,480 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], []], 'high_speed_violations': [0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:09:32,941 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], []], 'high_speed_violations': [0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:09:39,080 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:09:39,140 - INFO -  * Restarting with stat
+2025-04-04 12:09:39,731 - WARNING -  * Debugger is active!
+2025-04-04 12:09:39,734 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:09:40,759 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:09:40,829 - INFO -  * Restarting with stat
+2025-04-04 12:09:41,522 - WARNING -  * Debugger is active!
+2025-04-04 12:09:41,524 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:09:43,154 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[]], 'high_speed_violations': [0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:09:51,682 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:09:51,753 - INFO -  * Restarting with stat
+2025-04-04 12:09:52,416 - WARNING -  * Debugger is active!
+2025-04-04 12:09:52,417 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:09:54,296 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[]], 'high_speed_violations': [0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:09:57,477 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:09:57,565 - INFO -  * Restarting with stat
+2025-04-04 12:09:58,187 - WARNING -  * Debugger is active!
+2025-04-04 12:09:58,189 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:10:53,922 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:10:53,994 - INFO -  * Restarting with stat
+2025-04-04 12:10:54,601 - WARNING -  * Debugger is active!
+2025-04-04 12:10:54,603 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:11:10,923 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[]], 'high_speed_violations': [0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:11:21,721 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], []], 'high_speed_violations': [0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:11:35,782 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], []], 'high_speed_violations': [0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:13:58,490 - INFO -  * Restarting with stat
+2025-04-04 12:13:59,124 - WARNING -  * Debugger is active!
+2025-04-04 12:13:59,126 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:14:09,929 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 3, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:44:09'}
+2025-04-04 12:14:21,409 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 2, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:44:21'}
+2025-04-04 12:14:32,238 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:44:32'}
+2025-04-04 12:14:42,870 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:44:42'}
+2025-04-04 12:14:54,862 - DEBUG - Parsed JSON: {'vehicle_count': 32, 'vehicle_types': {'car': 3, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:44:54'}
+2025-04-04 12:15:05,575 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {'truck': 1, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:45:05'}
+2025-04-04 12:15:16,419 - DEBUG - Parsed JSON: {'vehicle_count': 36, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:45:16'}
+2025-04-04 12:15:27,185 - DEBUG - Parsed JSON: {'vehicle_count': 40, 'vehicle_types': {'truck': 2, 'car': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:45:27'}
+2025-04-04 12:16:08,681 - INFO -  * Restarting with stat
+2025-04-04 12:16:09,176 - WARNING -  * Debugger is active!
+2025-04-04 12:16:09,178 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:16:21,445 - DEBUG - Parsed JSON: {'vehicle_count': 44, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:46:21'}
+2025-04-04 12:16:31,959 - DEBUG - Parsed JSON: {'vehicle_count': 46, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:46:31'}
+2025-04-04 12:16:43,050 - DEBUG - Parsed JSON: {'vehicle_count': 46, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:46:43'}
+2025-04-04 12:16:55,158 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:46:55'}
+2025-04-04 12:17:05,836 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:47:05'}
+2025-04-04 12:17:16,874 - DEBUG - Parsed JSON: {'vehicle_count': 48, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:47:16'}
+2025-04-04 12:17:27,549 - DEBUG - Parsed JSON: {'vehicle_count': 48, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:47:27'}
+2025-04-04 12:17:39,062 - DEBUG - Parsed JSON: {'vehicle_count': 49, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:47:39'}
+2025-04-04 12:17:49,599 - DEBUG - Parsed JSON: {'vehicle_count': 50, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:47:49'}
+2025-04-04 12:17:49,731 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\app.py', reloading
+2025-04-04 12:17:49,807 - INFO -  * Restarting with stat
+2025-04-04 12:17:50,681 - WARNING -  * Debugger is active!
+2025-04-04 12:17:50,683 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:18:04,991 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[]], 'high_speed_violations': [0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:18:16,085 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], []], 'high_speed_violations': [0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:18:27,107 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], []], 'high_speed_violations': [0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:18:37,113 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], [], []], 'high_speed_violations': [0, 0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:18:47,590 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], [], [], []], 'high_speed_violations': [0, 0, 0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:19:05,441 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], [], [], [], []], 'high_speed_violations': [0, 0, 0, 0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:19:15,587 - DEBUG - Updated data store: {'vehicle_count': [{'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}, {'time': 'N/A', 'count': 0}], 'vehicle_category': {}, 'traffic_density': [[], [], [], [], [], [], []], 'high_speed_violations': [0, 0, 0, 0, 0, 0, 0], 'speed_distribution': [], 'seen_vehicles': {'N/A': {}}}
+2025-04-04 12:24:12,127 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\app.py', reloading
+2025-04-04 12:24:12,198 - INFO -  * Restarting with stat
+2025-04-04 12:24:12,789 - WARNING -  * Debugger is active!
+2025-04-04 12:24:12,791 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:25:21,753 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 3, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:55:21'}
+2025-04-04 12:25:32,469 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 2, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:55:32'}
+2025-04-04 12:25:42,720 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:55:42'}
+2025-04-04 12:25:52,873 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:55:52'}
+2025-04-04 12:26:02,997 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {'car': 4, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:56:02'}
+2025-04-04 12:26:13,135 - DEBUG - Parsed JSON: {'vehicle_count': 35, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:56:13'}
+2025-04-04 12:26:23,437 - DEBUG - Parsed JSON: {'vehicle_count': 37, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:56:23'}
+2025-04-04 12:26:34,174 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {'truck': 3, 'car': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:56:34'}
+2025-04-04 12:26:45,477 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:56:45'}
+2025-04-04 12:26:55,742 - DEBUG - Parsed JSON: {'vehicle_count': 46, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:56:55'}
+2025-04-04 12:27:08,753 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:57:08'}
+2025-04-04 12:27:19,629 - DEBUG - Parsed JSON: {'vehicle_count': 48, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:57:19'}
+2025-04-04 12:27:30,951 - DEBUG - Parsed JSON: {'vehicle_count': 50, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:57:30'}
+2025-04-04 12:27:42,026 - DEBUG - Parsed JSON: {'vehicle_count': 51, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:57:42'}
+2025-04-04 12:27:53,632 - DEBUG - Parsed JSON: {'vehicle_count': 56, 'vehicle_types': {'truck': 4, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:57:53'}
+2025-04-04 12:28:04,768 - DEBUG - Parsed JSON: {'vehicle_count': 56, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:58:04'}
+2025-04-04 12:28:15,167 - DEBUG - Parsed JSON: {'vehicle_count': 57, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:58:15'}
+2025-04-04 12:28:28,779 - DEBUG - Parsed JSON: {'vehicle_count': 60, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:58:28'}
+2025-04-04 12:28:40,468 - DEBUG - Parsed JSON: {'vehicle_count': 60, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:58:40'}
+2025-04-04 12:28:52,113 - DEBUG - Parsed JSON: {'vehicle_count': 61, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:58:52'}
+2025-04-04 12:29:02,956 - DEBUG - Parsed JSON: {'vehicle_count': 63, 'vehicle_types': {'car': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:59:02'}
+2025-04-04 12:29:13,548 - DEBUG - Parsed JSON: {'vehicle_count': 64, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:59:13'}
+2025-04-04 12:29:25,197 - DEBUG - Parsed JSON: {'vehicle_count': 64, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:59:25'}
+2025-04-04 12:29:36,099 - DEBUG - Parsed JSON: {'vehicle_count': 64, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '06:59:36'}
+2025-04-04 12:29:48,100 - DEBUG - Parsed JSON: {'vehicle_count': 66, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:59:48'}
+2025-04-04 12:29:58,916 - DEBUG - Parsed JSON: {'vehicle_count': 67, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '06:59:58'}
+2025-04-04 12:30:09,991 - DEBUG - Parsed JSON: {'vehicle_count': 68, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:00:09'}
+2025-04-04 12:31:05,971 - INFO -  * Restarting with stat
+2025-04-04 12:31:06,516 - WARNING -  * Debugger is active!
+2025-04-04 12:31:06,519 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:31:17,142 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 3, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:01:17'}
+2025-04-04 12:31:27,190 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 2, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:01:27'}
+2025-04-04 12:31:37,212 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:01:37'}
+2025-04-04 12:31:44,594 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:31:49,689 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:01:49'}
+2025-04-04 12:32:04,298 - DEBUG - Parsed JSON: {'vehicle_count': 32, 'vehicle_types': {'car': 3, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:02:04'}
+2025-04-04 12:32:15,228 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {'truck': 1, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:02:15'}
+2025-04-04 12:32:25,615 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:02:25'}
+2025-04-04 12:32:35,861 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:02:35'}
+2025-04-04 12:32:46,637 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:02:46'}
+2025-04-04 12:32:56,788 - DEBUG - Parsed JSON: {'vehicle_count': 37, 'vehicle_types': {'truck': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:02:56'}
+2025-04-04 12:33:11,511 - DEBUG - Parsed JSON: {'vehicle_count': 40, 'vehicle_types': {'truck': 1, 'car': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:03:11'}
+2025-04-04 12:33:22,022 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:03:22'}
+2025-04-04 12:33:33,354 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:03:33'}
+2025-04-04 12:33:44,171 - DEBUG - Parsed JSON: {'vehicle_count': 46, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:03:44'}
+2025-04-04 12:33:44,726 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:33:44,783 - INFO -  * Restarting with stat
+2025-04-04 12:33:45,419 - WARNING -  * Debugger is active!
+2025-04-04 12:33:45,421 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:33:46,435 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:33:46,519 - INFO -  * Restarting with stat
+2025-04-04 12:33:47,304 - WARNING -  * Debugger is active!
+2025-04-04 12:33:47,308 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:33:47,532 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:33:54,986 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:03:54'}
+2025-04-04 12:34:21,324 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'truck': 2, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:04:21'}
+2025-04-04 12:34:27,146 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:04:27'}
+2025-04-04 12:34:32,972 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 2, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:04:32'}
+2025-04-04 12:34:38,827 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:04:38'}
+2025-04-04 12:34:44,657 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:04:44'}
+2025-04-04 12:34:50,855 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:04:50'}
+2025-04-04 12:34:55,891 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:04:55'}
+2025-04-04 12:35:02,432 - DEBUG - Parsed JSON: {'vehicle_count': 29, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:02'}
+2025-04-04 12:35:08,752 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {'car': 3, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:08'}
+2025-04-04 12:35:14,859 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:05:14'}
+2025-04-04 12:35:20,689 - DEBUG - Parsed JSON: {'vehicle_count': 35, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:20'}
+2025-04-04 12:35:26,598 - DEBUG - Parsed JSON: {'vehicle_count': 37, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:26'}
+2025-04-04 12:35:32,471 - DEBUG - Parsed JSON: {'vehicle_count': 37, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:05:32'}
+2025-04-04 12:35:38,527 - DEBUG - Parsed JSON: {'vehicle_count': 42, 'vehicle_types': {'truck': 2, 'car': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:38'}
+2025-04-04 12:35:44,887 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:44'}
+2025-04-04 12:35:51,167 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:05:51'}
+2025-04-04 12:35:57,459 - DEBUG - Parsed JSON: {'vehicle_count': 44, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:05:57'}
+2025-04-04 12:36:03,614 - DEBUG - Parsed JSON: {'vehicle_count': 46, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:03'}
+2025-04-04 12:36:10,013 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:10'}
+2025-04-04 12:36:16,682 - DEBUG - Parsed JSON: {'vehicle_count': 48, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:16'}
+2025-04-04 12:36:22,733 - DEBUG - Parsed JSON: {'vehicle_count': 49, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:22'}
+2025-04-04 12:36:28,973 - DEBUG - Parsed JSON: {'vehicle_count': 50, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:28'}
+2025-04-04 12:36:35,379 - DEBUG - Parsed JSON: {'vehicle_count': 50, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:06:35'}
+2025-04-04 12:36:41,704 - DEBUG - Parsed JSON: {'vehicle_count': 52, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:41'}
+2025-04-04 12:36:48,099 - DEBUG - Parsed JSON: {'vehicle_count': 55, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:48'}
+2025-04-04 12:36:53,920 - DEBUG - Parsed JSON: {'vehicle_count': 56, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:06:53'}
+2025-04-04 12:36:59,013 - DEBUG - Parsed JSON: {'vehicle_count': 56, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:06:59'}
+2025-04-04 12:37:05,309 - DEBUG - Parsed JSON: {'vehicle_count': 57, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:07:05'}
+2025-04-04 12:37:11,358 - DEBUG - Parsed JSON: {'vehicle_count': 57, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:07:11'}
+2025-04-04 12:37:17,910 - DEBUG - Parsed JSON: {'vehicle_count': 58, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:07:17'}
+2025-04-04 12:42:00,010 - INFO -  * Restarting with stat
+2025-04-04 12:42:00,598 - WARNING -  * Debugger is active!
+2025-04-04 12:42:00,601 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:42:05,018 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:42:06,873 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:12:06'}
+2025-04-04 12:42:12,978 - DEBUG - Parsed JSON: {'vehicle_count': 21, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:12:12'}
+2025-04-04 12:42:19,576 - DEBUG - Parsed JSON: {'vehicle_count': 23, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:12:19'}
+2025-04-04 12:42:25,046 - DEBUG - Parsed JSON: {'vehicle_count': 23, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:12:25'}
+2025-04-04 12:44:28,746 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:44:28,800 - INFO -  * Restarting with stat
+2025-04-04 12:44:29,409 - WARNING -  * Debugger is active!
+2025-04-04 12:44:29,411 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:44:31,024 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:45:08,968 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:45:09,023 - INFO -  * Restarting with stat
+2025-04-04 12:45:09,514 - WARNING -  * Debugger is active!
+2025-04-04 12:45:09,516 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:45:11,016 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:47:35,699 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:47:35,768 - INFO -  * Restarting with stat
+2025-04-04 12:47:36,315 - WARNING -  * Debugger is active!
+2025-04-04 12:47:36,317 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:47:37,026 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:49:08,089 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:49:08,150 - INFO -  * Restarting with stat
+2025-04-04 12:49:08,707 - WARNING -  * Debugger is active!
+2025-04-04 12:49:08,709 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:49:10,024 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:49:15,830 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:49:15,879 - INFO -  * Restarting with stat
+2025-04-04 12:49:16,399 - WARNING -  * Debugger is active!
+2025-04-04 12:49:16,401 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:49:17,031 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:49:23,497 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:49:23,549 - INFO -  * Restarting with stat
+2025-04-04 12:49:24,043 - WARNING -  * Debugger is active!
+2025-04-04 12:49:24,046 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:49:25,031 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:49:26,084 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:49:26,151 - INFO -  * Restarting with stat
+2025-04-04 12:49:26,660 - WARNING -  * Debugger is active!
+2025-04-04 12:49:26,662 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:49:28,015 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:49:28,695 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:49:28,762 - INFO -  * Restarting with stat
+2025-04-04 12:49:29,314 - WARNING -  * Debugger is active!
+2025-04-04 12:49:29,316 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:49:30,021 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:50:40,622 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:50:40,773 - INFO -  * Restarting with stat
+2025-04-04 12:50:41,481 - WARNING -  * Debugger is active!
+2025-04-04 12:50:41,483 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:50:42,026 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:50:46,562 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:50:46,622 - INFO -  * Restarting with stat
+2025-04-04 12:50:47,194 - WARNING -  * Debugger is active!
+2025-04-04 12:50:47,197 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:50:48,021 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:50:50,250 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:50:50,313 - INFO -  * Restarting with stat
+2025-04-04 12:50:50,882 - WARNING -  * Debugger is active!
+2025-04-04 12:50:50,885 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:50:53,019 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:51:15,337 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 3, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:21:15'}
+2025-04-04 12:51:38,511 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:51:38,569 - INFO -  * Restarting with stat
+2025-04-04 12:51:39,151 - WARNING -  * Debugger is active!
+2025-04-04 12:51:39,152 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:51:40,172 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:51:40,221 - INFO -  * Restarting with stat
+2025-04-04 12:51:40,709 - WARNING -  * Debugger is active!
+2025-04-04 12:51:40,711 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:51:41,019 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:51:41,730 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:51:41,784 - INFO -  * Restarting with stat
+2025-04-04 12:51:42,335 - WARNING -  * Debugger is active!
+2025-04-04 12:51:42,337 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:51:43,366 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-04 12:51:43,422 - INFO -  * Restarting with stat
+2025-04-04 12:51:43,978 - WARNING -  * Debugger is active!
+2025-04-04 12:51:43,982 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:51:44,014 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:51:58,440 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 3, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:21:58'}
+2025-04-04 12:52:09,135 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 2, 'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:22:09'}
+2025-04-04 12:52:20,198 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:22:20'}
+2025-04-04 12:52:34,310 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:22:34'}
+2025-04-04 12:52:45,997 - DEBUG - Parsed JSON: {'vehicle_count': 29, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:22:45'}
+2025-04-04 12:52:57,680 - DEBUG - Parsed JSON: {'vehicle_count': 32, 'vehicle_types': {'car': 2, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:22:57'}
+2025-04-04 12:53:08,780 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {'truck': 1, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:23:08'}
+2025-04-04 12:53:20,254 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:23:20'}
+2025-04-04 12:53:31,753 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:23:31'}
+2025-04-04 12:53:42,870 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '07:23:42'}
+2025-04-04 12:53:53,551 - DEBUG - Parsed JSON: {'vehicle_count': 35, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:23:53'}
+2025-04-04 12:54:04,065 - DEBUG - Parsed JSON: {'vehicle_count': 36, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:24:04'}
+2025-04-04 12:55:55,434 - INFO -  * Restarting with stat
+2025-04-04 12:55:55,948 - WARNING -  * Debugger is active!
+2025-04-04 12:55:55,951 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:55:56,084 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:55:56,106 - DEBUG - Parsed JSON: {'vehicles': [{'id': 18, 'speed': 112.8, 'type': 'car', 'position': [1136.0, 385.0], 'timestamp': '07:25:54'}, {'id': 17, 'speed': 40.2, 'type': 'truck', 'position': [1840.0, 894.0], 'timestamp': '07:25:54'}, {'id': 16, 'speed': 64.0, 'type': 'car', 'position': [1076.0, 433.0], 'timestamp': '07:25:54'}, {'id': 14, 'speed': 76.7, 'type': 'car', 'position': [1058.0, 412.0], 'timestamp': '07:25:54'}, {'id': 13, 'speed': 28.9, 'type': 'car', 'position': [356.0, 717.0], 'timestamp': '07:25:54'}, {'id': 12, 'speed': 25.8, 'type': 'car', 'position': [759.0, 456.0], 'timestamp': '07:25:54'}, {'id': 11, 'speed': 24.2, 'type': 'car', 'position': [1182.0, 404.0], 'timestamp': '07:25:54'}, {'id': 10, 'speed': 16.8, 'type': 'car', 'position': [694.0, 501.0], 'timestamp': '07:25:54'}, {'id': 9, 'speed': 18.0, 'type': 'truck', 'position': [881.0, 483.0], 'timestamp': '07:25:54'}, {'id': 8, 'speed': 56.4, 'type': 'car', 'position': [1092.0, 473.0], 'timestamp': '07:25:54'}, {'id': 7, 'speed': 21.0, 'type': 'car', 'position': [837.0, 444.0], 'timestamp': '07:25:54'}, {'id': 6, 'speed': 16.7, 'type': 'car', 'position': [793.0, 477.0], 'timestamp': '07:25:54'}, {'id': 5, 'speed': 14.7, 'type': 'car', 'position': [774.0, 506.0], 'timestamp': '07:25:54'}, {'id': 4, 'speed': 15.6, 'type': 'car', 'position': [622.0, 652.0], 'timestamp': '07:25:54'}, {'id': 3, 'speed': 23.1, 'type': 'car', 'position': [838.0, 569.0], 'timestamp': '07:25:54'}, {'id': 2, 'speed': 64.6, 'type': 'truck', 'position': [1332.0, 724.0], 'timestamp': '07:25:54'}, {'id': 1, 'speed': 39.1, 'type': 'car', 'position': [1336.0, 441.0], 'timestamp': '07:25:54'}]}
+2025-04-04 12:55:57,715 - DEBUG - Parsed JSON: {'vehicles': [{'id': 18, 'speed': 96.5, 'type': 'car', 'position': [1138.0, 385.0], 'timestamp': '07:25:57'}, {'id': 17, 'speed': 44.2, 'type': 'truck', 'position': [1826.0, 903.0], 'timestamp': '07:25:57'}, {'id': 16, 'speed': 69.2, 'type': 'car', 'position': [1075.0, 434.0], 'timestamp': '07:25:57'}, {'id': 14, 'speed': 89.2, 'type': 'car', 'position': [1058.0, 413.0], 'timestamp': '07:25:57'}, {'id': 13, 'speed': 38.2, 'type': 'car', 'position': [365.0, 710.0], 'timestamp': '07:25:57'}, {'id': 12, 'speed': 22.2, 'type': 'car', 'position': [759.0, 456.0], 'timestamp': '07:25:57'}, {'id': 11, 'speed': 24.1, 'type': 'car', 'position': [1183.0, 405.0], 'timestamp': '07:25:57'}, {'id': 10, 'speed': 15.1, 'type': 'car', 'position': [695.0, 501.0], 'timestamp': '07:25:57'}, {'id': 9, 'speed': 33.7, 'type': 'car', 'position': [882.0, 482.0], 'timestamp': '07:25:57'}, {'id': 8, 'speed': 74.5, 'type': 'car', 'position': [1093.0, 475.0], 'timestamp': '07:25:57'}, {'id': 7, 'speed': 25.7, 'type': 'car', 'position': [837.0, 444.0], 'timestamp': '07:25:57'}, {'id': 6, 'speed': 30.9, 'type': 'truck', 'position': [794.0, 476.0], 'timestamp': '07:25:57'}, {'id': 5, 'speed': 19.9, 'type': 'car', 'position': [776.0, 506.0], 'timestamp': '07:25:57'}, {'id': 4, 'speed': 24.6, 'type': 'car', 'position': [626.0, 649.0], 'timestamp': '07:25:57'}, {'id': 3, 'speed': 29.9, 'type': 'car', 'position': [839.0, 567.0], 'timestamp': '07:25:57'}, {'id': 2, 'speed': 77.7, 'type': 'car', 'position': [1351.0, 737.0], 'timestamp': '07:25:57'}, {'id': 1, 'speed': 68.7, 'type': 'truck', 'position': [1340.0, 443.0], 'timestamp': '07:25:57'}]}
+2025-04-04 12:55:59,335 - DEBUG - Parsed JSON: {'vehicles': [{'id': 22, 'speed': 0.0, 'type': 'car', 'position': [921.0, 415.0], 'timestamp': '07:25:59'}, {'id': 21, 'speed': 0.0, 'type': 'truck', 'position': [802.0, 417.0], 'timestamp': '07:25:59'}, {'id': 18, 'speed': 200.4, 'type': 'car', 'position': [1137.0, 386.0], 'timestamp': '07:25:59'}, {'id': 17, 'speed': 62.1, 'type': 'car', 'position': [1811.0, 925.0], 'timestamp': '07:25:59'}, {'id': 16, 'speed': 99.5, 'type': 'car', 'position': [1075.0, 436.0], 'timestamp': '07:25:59'}, {'id': 14, 'speed': 154.9, 'type': 'car', 'position': [1058.0, 415.0], 'timestamp': '07:25:59'}, {'id': 13, 'speed': 44.9, 'type': 'car', 'position': [375.0, 704.0], 'timestamp': '07:25:59'}, {'id': 12, 'speed': 30.1, 'type': 'car', 'position': [761.0, 455.0], 'timestamp': '07:25:59'}, {'id': 11, 'speed': 59.1, 'type': 'car', 'position': [1184.0, 405.0], 'timestamp': '07:25:59'}, {'id': 10, 'speed': 15.9, 'type': 'car', 'position': [696.0, 500.0], 'timestamp': '07:25:59'}, {'id': 9, 'speed': 36.0, 'type': 'car', 'position': [883.0, 481.0], 'timestamp': '07:25:59'}, {'id': 8, 'speed': 98.0, 'type': 'truck', 'position': [1095.0, 478.0], 'timestamp': '07:25:59'}, {'id': 7, 'speed': 30.7, 'type': 'car', 'position': [838.0, 444.0], 'timestamp': '07:25:59'}, {'id': 6, 'speed': 27.8, 'type': 'car', 'position': [794.0, 476.0], 'timestamp': '07:25:59'}, {'id': 5, 'speed': 21.1, 'type': 'car', 'position': [776.0, 505.0], 'timestamp': '07:25:59'}, {'id': 4, 'speed': 29.7, 'type': 'car', 'position': [630.0, 645.0], 'timestamp': '07:25:59'}, {'id': 3, 'speed': 32.2, 'type': 'car', 'position': [841.0, 566.0], 'timestamp': '07:25:59'}, {'id': 2, 'speed': 105.9, 'type': 'truck', 'position': [1372.0, 760.0], 'timestamp': '07:25:59'}, {'id': 1, 'speed': 89.0, 'type': 'truck', 'position': [1345.0, 444.0], 'timestamp': '07:25:59'}]}
+2025-04-04 12:56:00,990 - DEBUG - Parsed JSON: {'vehicles': [{'id': 22, 'speed': 35.5, 'type': 'car', 'position': [922.0, 415.0], 'timestamp': '07:26:00'}, {'id': 21, 'speed': 6.3, 'type': 'truck', 'position': [804.0, 416.0], 'timestamp': '07:26:00'}, {'id': 18, 'speed': 159.1, 'type': 'car', 'position': [1141.0, 386.0], 'timestamp': '07:26:00'}, {'id': 17, 'speed': 70.0, 'type': 'car', 'position': [1792.0, 943.0], 'timestamp': '07:26:00'}, {'id': 16, 'speed': 137.7, 'type': 'car', 'position': [1076.0, 438.0], 'timestamp': '07:26:00'}, {'id': 14, 'speed': 153.8, 'type': 'car', 'position': [1058.0, 416.0], 'timestamp': '07:26:00'}, {'id': 13, 'speed': 49.1, 'type': 'car', 'position': [384.0, 697.0], 'timestamp': '07:26:00'}, {'id': 12, 'speed': 41.7, 'type': 'car', 'position': [762.0, 454.0], 'timestamp': '07:26:00'}, {'id': 11, 'speed': 55.6, 'type': 'car', 'position': [1186.0, 406.0], 'timestamp': '07:26:00'}, {'id': 10, 'speed': 25.9, 'type': 'car', 'position': [698.0, 499.0], 'timestamp': '07:26:00'}, {'id': 9, 'speed': 56.8, 'type': 'car', 'position': [884.0, 479.0], 'timestamp': '07:26:00'}, {'id': 8, 'speed': 110.9, 'type': 'truck', 'position': [1097.0, 481.0], 'timestamp': '07:26:00'}, {'id': 7, 'speed': 44.3, 'type': 'car', 'position': [839.0, 443.0], 'timestamp': '07:26:00'}, {'id': 6, 'speed': 38.8, 'type': 'car', 'position': [795.0, 475.0], 'timestamp': '07:26:00'}, {'id': 5, 'speed': 33.7, 'type': 'car', 'position': [778.0, 503.0], 'timestamp': '07:26:00'}, {'id': 4, 'speed': 37.1, 'type': 'car', 'position': [634.0, 641.0], 'timestamp': '07:26:00'}, {'id': 3, 'speed': 40.4, 'type': 'truck', 'position': [841.0, 563.0], 'timestamp': '07:26:00'}, {'id': 2, 'speed': 120.0, 'type': 'car', 'position': [1397.0, 783.0], 'timestamp': '07:26:00'}, {'id': 1, 'speed': 102.4, 'type': 'car', 'position': [1352.0, 446.0], 'timestamp': '07:26:00'}]}
+2025-04-04 12:58:28,947 - INFO -  * Restarting with stat
+2025-04-04 12:58:29,513 - WARNING -  * Debugger is active!
+2025-04-04 12:58:29,515 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 12:58:31,014 - INFO - Frontend connected to WebSocket.
+2025-04-04 12:58:35,913 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '07:28:35'}
+2025-04-04 13:12:34,026 - INFO - Frontend connected to WebSocket.
+2025-04-04 13:13:38,894 - INFO - Frontend connected to WebSocket.
+2025-04-04 13:17:38,571 - INFO - Frontend connected to WebSocket.
+2025-04-04 16:50:22,798 - INFO -  * Restarting with stat
+2025-04-04 16:50:23,863 - WARNING -  * Debugger is active!
+2025-04-04 16:50:23,867 - INFO -  * Debugger PIN: 179-992-115
+2025-04-04 16:50:56,620 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'truck': 2, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '11:20:56'}
+2025-04-04 16:51:07,632 - DEBUG - Parsed JSON: {'vehicle_count': 22, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '11:21:07'}
+2025-04-04 16:51:23,910 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '11:21:23'}
+2025-04-04 16:51:33,002 - INFO - Frontend connected to WebSocket.
+2025-04-04 16:51:35,701 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '11:21:35'}
+2025-04-04 16:51:43,795 - INFO - Frontend connected to WebSocket.
+2025-04-04 16:51:47,095 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '11:21:47'}
+2025-04-04 16:51:57,973 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '11:21:57'}
+2025-04-05 06:09:25,290 - INFO -  * Restarting with stat
+2025-04-05 06:09:26,371 - WARNING -  * Debugger is active!
+2025-04-05 06:09:26,374 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:10:02,764 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'truck': 2, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:40:02'}
+2025-04-05 06:11:09,909 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\app.py', reloading
+2025-04-05 06:11:10,019 - INFO -  * Restarting with stat
+2025-04-05 06:11:11,174 - WARNING -  * Debugger is active!
+2025-04-05 06:11:11,178 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:11:24,399 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\app.py', reloading
+2025-04-05 06:11:24,494 - INFO -  * Restarting with stat
+2025-04-05 06:11:25,532 - WARNING -  * Debugger is active!
+2025-04-05 06:11:25,535 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:11:30,637 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\app.py', reloading
+2025-04-05 06:11:30,734 - INFO -  * Restarting with stat
+2025-04-05 06:12:05,592 - INFO -  * Restarting with stat
+2025-04-05 06:12:06,514 - WARNING -  * Debugger is active!
+2025-04-05 06:12:06,518 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:15:12,632 - INFO -  * Restarting with stat
+2025-04-05 06:15:13,941 - WARNING -  * Debugger is active!
+2025-04-05 06:15:13,945 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:15:28,389 - DEBUG - Parsed JSON: {'vehicle_count': 22, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:45:28'}
+2025-04-05 06:15:44,385 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:45:44'}
+2025-04-05 06:16:00,402 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:46:00'}
+2025-04-05 06:16:16,714 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:46:16'}
+2025-04-05 06:16:31,337 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:46:31'}
+2025-04-05 06:16:42,000 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:46:41'}
+2025-04-05 06:16:52,734 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:46:52'}
+2025-04-05 06:17:04,123 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:47:04'}
+2025-04-05 06:17:16,270 - DEBUG - Parsed JSON: {'vehicle_count': 32, 'vehicle_types': {'car': 3, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:47:16'}
+2025-04-05 06:17:27,239 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {'truck': 1, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:47:27'}
+2025-04-05 06:17:38,026 - DEBUG - Parsed JSON: {'vehicle_count': 34, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:47:38'}
+2025-04-05 06:17:48,629 - DEBUG - Parsed JSON: {'vehicle_count': 36, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:47:48'}
+2025-04-05 06:17:59,268 - DEBUG - Parsed JSON: {'vehicle_count': 37, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:47:59'}
+2025-04-05 06:18:09,857 - DEBUG - Parsed JSON: {'vehicle_count': 40, 'vehicle_types': {'truck': 1, 'car': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:48:09'}
+2025-04-05 06:18:20,421 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:48:20'}
+2025-04-05 06:18:30,943 - DEBUG - Parsed JSON: {'vehicle_count': 43, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:48:30'}
+2025-04-05 06:18:41,503 - DEBUG - Parsed JSON: {'vehicle_count': 44, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:48:41'}
+2025-04-05 06:18:52,127 - DEBUG - Parsed JSON: {'vehicle_count': 45, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:48:52'}
+2025-04-05 06:19:02,724 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:49:02'}
+2025-04-05 06:19:13,118 - DEBUG - Parsed JSON: {'vehicle_count': 47, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:49:13'}
+2025-04-05 06:19:23,522 - DEBUG - Parsed JSON: {'vehicle_count': 49, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:49:23'}
+2025-04-05 06:19:35,355 - DEBUG - Parsed JSON: {'vehicle_count': 50, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:49:35'}
+2025-04-05 06:19:45,935 - DEBUG - Parsed JSON: {'vehicle_count': 50, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:49:45'}
+2025-04-05 06:19:56,572 - DEBUG - Parsed JSON: {'vehicle_count': 51, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:49:56'}
+2025-04-05 06:20:07,376 - DEBUG - Parsed JSON: {'vehicle_count': 53, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:50:07'}
+2025-04-05 06:20:18,247 - DEBUG - Parsed JSON: {'vehicle_count': 56, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:50:18'}
+2025-04-05 06:20:29,028 - DEBUG - Parsed JSON: {'vehicle_count': 56, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:50:29'}
+2025-04-05 06:20:39,852 - DEBUG - Parsed JSON: {'vehicle_count': 57, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:50:39'}
+2025-04-05 06:20:50,823 - DEBUG - Parsed JSON: {'vehicle_count': 57, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '00:50:50'}
+2025-04-05 06:21:02,554 - DEBUG - Parsed JSON: {'vehicle_count': 58, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:51:02'}
+2025-04-05 06:21:14,996 - DEBUG - Parsed JSON: {'vehicle_count': 61, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:51:14'}
+2025-04-05 06:21:27,327 - DEBUG - Parsed JSON: {'vehicle_count': 63, 'vehicle_types': {'car': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:51:27'}
+2025-04-05 06:21:38,243 - DEBUG - Parsed JSON: {'vehicle_count': 64, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:51:38'}
+2025-04-05 06:21:49,062 - DEBUG - Parsed JSON: {'vehicle_count': 66, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:51:49'}
+2025-04-05 06:21:59,997 - DEBUG - Parsed JSON: {'vehicle_count': 68, 'vehicle_types': {'truck': 1, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:51:59'}
+2025-04-05 06:22:11,189 - DEBUG - Parsed JSON: {'vehicle_count': 69, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:52:11'}
+2025-04-05 06:22:22,378 - DEBUG - Parsed JSON: {'vehicle_count': 71, 'vehicle_types': {'truck': 2}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:52:22'}
+2025-04-05 06:26:47,330 - INFO -  * Restarting with stat
+2025-04-05 06:26:48,297 - WARNING -  * Debugger is active!
+2025-04-05 06:26:48,300 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:27:12,607 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'truck': 2, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:57:12'}
+2025-04-05 06:27:23,442 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:57:23'}
+2025-04-05 06:27:34,355 - DEBUG - Parsed JSON: {'vehicle_count': 22, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:57:34'}
+2025-04-05 06:27:45,132 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '00:57:45'}
+2025-04-05 06:29:13,627 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:29:13,764 - INFO -  * Restarting with stat
+2025-04-05 06:29:15,045 - WARNING -  * Debugger is active!
+2025-04-05 06:29:15,047 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:29:25,213 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:29:25,323 - INFO -  * Restarting with stat
+2025-04-05 06:29:26,347 - WARNING -  * Debugger is active!
+2025-04-05 06:29:26,351 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:29:43,650 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:29:43,771 - INFO -  * Restarting with stat
+2025-04-05 06:29:44,947 - WARNING -  * Debugger is active!
+2025-04-05 06:29:44,953 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:30:01,589 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'truck': 2, 'car': 17}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:00:01'}
+2025-04-05 06:30:12,128 - DEBUG - Parsed JSON: {'vehicle_count': 22, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:00:12'}
+2025-04-05 06:30:22,603 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {'car': 1, 'truck': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:00:22'}
+2025-04-05 06:30:32,979 - DEBUG - Parsed JSON: {'vehicle_count': 24, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '01:00:32'}
+2025-04-05 06:30:43,738 - DEBUG - Parsed JSON: {'vehicle_count': 25, 'vehicle_types': {'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:00:43'}
+2025-04-05 06:30:54,705 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {'truck': 2, 'car': 1}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:00:54'}
+2025-04-05 06:31:05,389 - DEBUG - Parsed JSON: {'vehicle_count': 28, 'vehicle_types': {}, 'average_speed': 0, 'overspeeding': 0, 'timestamp': '01:01:05'}
+2025-04-05 06:31:37,602 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:31:37,708 - INFO -  * Restarting with stat
+2025-04-05 06:31:38,840 - WARNING -  * Debugger is active!
+2025-04-05 06:31:38,843 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:31:43,939 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:31:44,059 - INFO -  * Restarting with stat
+2025-04-05 06:31:45,105 - WARNING -  * Debugger is active!
+2025-04-05 06:31:45,109 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:31:48,183 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:31:48,294 - INFO -  * Restarting with stat
+2025-04-05 06:31:49,504 - WARNING -  * Debugger is active!
+2025-04-05 06:31:49,508 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:32:10,919 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:32:11,024 - INFO -  * Restarting with stat
+2025-04-05 06:32:12,091 - WARNING -  * Debugger is active!
+2025-04-05 06:32:12,094 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:32:14,130 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:32:14,251 - INFO -  * Restarting with stat
+2025-04-05 06:32:15,487 - WARNING -  * Debugger is active!
+2025-04-05 06:32:15,491 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:32:36,909 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:32:37,042 - INFO -  * Restarting with stat
+2025-04-05 06:32:38,188 - WARNING -  * Debugger is active!
+2025-04-05 06:32:38,193 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:32:40,240 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:32:40,402 - INFO -  * Restarting with stat
+2025-04-05 06:32:41,551 - WARNING -  * Debugger is active!
+2025-04-05 06:32:41,554 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:32:46,662 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:32:46,761 - INFO -  * Restarting with stat
+2025-04-05 06:32:47,754 - WARNING -  * Debugger is active!
+2025-04-05 06:32:47,756 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:32:49,806 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:32:49,903 - INFO -  * Restarting with stat
+2025-04-05 06:32:50,887 - WARNING -  * Debugger is active!
+2025-04-05 06:32:50,891 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:33:09,230 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'truck': 6, 'car': 51}, 'average_speed': 0.51, 'overspeeding': 0, 'timestamp': '01:03:09'}
+2025-04-05 06:33:19,821 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'car': 58, 'truck': 13}, 'average_speed': 41.43, 'overspeeding': 9, 'timestamp': '01:03:19'}
+2025-04-05 06:33:30,080 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'car': 65, 'truck': 12}, 'average_speed': 78.04, 'overspeeding': 26, 'timestamp': '01:03:30'}
+2025-04-05 06:33:40,705 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'car': 59, 'truck': 12}, 'average_speed': 92.33, 'overspeeding': 32, 'timestamp': '01:03:40'}
+2025-04-05 06:33:51,436 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'truck': 12, 'car': 56}, 'average_speed': 91.05, 'overspeeding': 30, 'timestamp': '01:03:51'}
+2025-04-05 06:34:34,447 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:34,565 - INFO -  * Restarting with stat
+2025-04-05 06:34:35,625 - WARNING -  * Debugger is active!
+2025-04-05 06:34:35,629 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:34:37,681 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:37,785 - INFO -  * Restarting with stat
+2025-04-05 06:34:38,838 - WARNING -  * Debugger is active!
+2025-04-05 06:34:38,843 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:34:41,920 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:42,050 - INFO -  * Restarting with stat
+2025-04-05 06:34:43,279 - WARNING -  * Debugger is active!
+2025-04-05 06:34:43,282 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:34:44,310 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:44,406 - INFO -  * Restarting with stat
+2025-04-05 06:34:45,429 - WARNING -  * Debugger is active!
+2025-04-05 06:34:45,432 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:34:47,478 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:47,582 - INFO -  * Restarting with stat
+2025-04-05 06:34:48,613 - WARNING -  * Debugger is active!
+2025-04-05 06:34:48,616 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:34:50,665 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:50,776 - INFO -  * Restarting with stat
+2025-04-05 06:34:52,056 - WARNING -  * Debugger is active!
+2025-04-05 06:34:52,059 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:34:59,201 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:34:59,293 - INFO -  * Restarting with stat
+2025-04-05 06:35:00,389 - WARNING -  * Debugger is active!
+2025-04-05 06:35:00,393 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:35:02,434 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:35:02,548 - INFO -  * Restarting with stat
+2025-04-05 06:35:03,626 - WARNING -  * Debugger is active!
+2025-04-05 06:35:03,634 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:35:25,993 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:35:26,101 - INFO -  * Restarting with stat
+2025-04-05 06:35:27,269 - WARNING -  * Debugger is active!
+2025-04-05 06:35:27,273 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:35:29,320 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:35:29,420 - INFO -  * Restarting with stat
+2025-04-05 06:35:30,541 - WARNING -  * Debugger is active!
+2025-04-05 06:35:30,544 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:35:31,579 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:35:31,685 - INFO -  * Restarting with stat
+2025-04-05 06:35:32,707 - WARNING -  * Debugger is active!
+2025-04-05 06:35:32,710 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:35:51,901 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'truck': 6, 'car': 51}, 'average_speed': 0.51, 'overspeeding': 0, 'timestamp': '01:05:51'}
+2025-04-05 06:36:02,655 - DEBUG - Parsed JSON: {'vehicle_count': 0, 'vehicle_types': {'car': 58, 'truck': 13}, 'average_speed': 41.43, 'overspeeding': 9, 'timestamp': '01:06:02'}
+2025-04-05 06:39:23,700 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:39:23,847 - INFO -  * Restarting with stat
+2025-04-05 06:39:24,928 - WARNING -  * Debugger is active!
+2025-04-05 06:39:24,933 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:50:46,020 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:50:46,126 - INFO -  * Restarting with stat
+2025-04-05 06:50:47,237 - WARNING -  * Debugger is active!
+2025-04-05 06:50:47,240 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:52:10,090 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:52:10,299 - INFO -  * Restarting with stat
+2025-04-05 06:52:11,754 - WARNING -  * Debugger is active!
+2025-04-05 06:52:11,758 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:52:31,062 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 6, 'car': 51}, 'average_speed': 0.5, 'overspeeding': 0, 'timestamp': '01:22:31'}
+2025-04-05 06:56:05,438 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:56:05,628 - INFO -  * Restarting with stat
+2025-04-05 06:56:06,851 - WARNING -  * Debugger is active!
+2025-04-05 06:56:06,854 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:58:19,712 - INFO -  * Detected change in 'C:\\Users\\yash4\\Desktop\\TMS Frontend\\vehicle_detection.py', reloading
+2025-04-05 06:58:19,897 - INFO -  * Restarting with stat
+2025-04-05 06:58:21,031 - WARNING -  * Debugger is active!
+2025-04-05 06:58:21,034 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 06:58:39,790 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:28:39'}
+2025-04-05 06:58:49,883 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'car': 17, 'truck': 3}, 'average_speed': 19.33, 'overspeeding': 0, 'timestamp': '01:28:49'}
+2025-04-05 06:58:59,975 - DEBUG - Parsed JSON: {'vehicle_count': 21, 'vehicle_types': {'car': 17, 'truck': 4}, 'average_speed': 63.09, 'overspeeding': 6, 'timestamp': '01:28:59'}
+2025-04-05 06:59:10,014 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 88.41, 'overspeeding': 8, 'timestamp': '01:29:10'}
+2025-04-05 06:59:22,504 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 87.33, 'overspeeding': 8, 'timestamp': '01:29:22'}
+2025-04-05 06:59:32,994 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 86.01, 'overspeeding': 8, 'timestamp': '01:29:32'}
+2025-04-05 06:59:45,220 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 85.7, 'overspeeding': 7, 'timestamp': '01:29:45'}
+2025-04-05 07:00:59,643 - INFO -  * Restarting with stat
+2025-04-05 07:01:00,679 - WARNING -  * Debugger is active!
+2025-04-05 07:01:00,682 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 07:01:00,774 - DEBUG - Parsed JSON: {'vehicle_count': 22, 'vehicle_types': {'car': 19, 'truck': 3}, 'average_speed': 67.1, 'overspeeding': 8, 'timestamp': '01:30:59'}
+2025-04-05 07:01:11,052 - DEBUG - Parsed JSON: {'vehicle_count': 21, 'vehicle_types': {'car': 17, 'truck': 4}, 'average_speed': 67.08, 'overspeeding': 6, 'timestamp': '01:31:11'}
+2025-04-05 07:01:21,337 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'car': 17, 'truck': 3}, 'average_speed': 77.05, 'overspeeding': 7, 'timestamp': '01:31:21'}
+2025-04-05 07:01:31,722 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 16, 'truck': 2}, 'average_speed': 75.41, 'overspeeding': 6, 'timestamp': '01:31:31'}
+2025-04-05 07:01:42,127 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 71.64, 'overspeeding': 5, 'timestamp': '01:31:42'}
+2025-04-05 07:01:52,586 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 16, 'truck': 2}, 'average_speed': 71.39, 'overspeeding': 6, 'timestamp': '01:31:52'}
+2025-04-05 07:02:03,031 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 84.9, 'overspeeding': 6, 'timestamp': '01:32:03'}
+2025-04-05 07:02:13,424 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 74.56, 'overspeeding': 5, 'timestamp': '01:32:13'}
+2025-04-05 07:02:23,926 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 71.7, 'overspeeding': 5, 'timestamp': '01:32:23'}
+2025-04-05 07:02:34,314 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 80.0, 'overspeeding': 6, 'timestamp': '01:32:34'}
+2025-04-05 07:02:44,583 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 71.89, 'overspeeding': 5, 'timestamp': '01:32:44'}
+2025-04-05 07:02:54,947 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'motorcycle': 1, 'car': 13, 'truck': 2}, 'average_speed': 53.81, 'overspeeding': 2, 'timestamp': '01:32:54'}
+2025-04-05 07:03:05,288 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 55.62, 'overspeeding': 3, 'timestamp': '01:33:05'}
+2025-04-05 07:03:15,559 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 61.46, 'overspeeding': 3, 'timestamp': '01:33:15'}
+2025-04-05 07:03:25,938 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 70.26, 'overspeeding': 4, 'timestamp': '01:33:25'}
+2025-04-05 07:03:36,254 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 69.29, 'overspeeding': 4, 'timestamp': '01:33:36'}
+2025-04-05 07:03:46,746 - DEBUG - Parsed JSON: {'vehicle_count': 15, 'vehicle_types': {'car': 14, 'truck': 1}, 'average_speed': 71.99, 'overspeeding': 4, 'timestamp': '01:33:46'}
+2025-04-05 07:03:57,790 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 58.88, 'overspeeding': 4, 'timestamp': '01:33:57'}
+2025-04-05 07:04:08,780 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 55.6, 'overspeeding': 2, 'timestamp': '01:34:08'}
+2025-04-05 07:22:56,697 - INFO -  * Restarting with stat
+2025-04-05 07:22:57,790 - WARNING -  * Debugger is active!
+2025-04-05 07:22:57,793 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 07:23:10,313 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '01:53:10'}
+2025-04-05 07:23:21,230 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 16, 'truck': 2}, 'average_speed': 21.48, 'overspeeding': 0, 'timestamp': '01:53:21'}
+2025-04-05 07:23:31,394 - DEBUG - Parsed JSON: {'vehicle_count': 21, 'vehicle_types': {'car': 17, 'truck': 4}, 'average_speed': 54.57, 'overspeeding': 6, 'timestamp': '01:53:31'}
+2025-04-05 07:23:42,311 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 87.58, 'overspeeding': 7, 'timestamp': '01:53:42'}
+2025-04-05 07:23:53,673 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 87.5, 'overspeeding': 9, 'timestamp': '01:53:53'}
+2025-04-05 07:24:04,889 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 90.48, 'overspeeding': 8, 'timestamp': '01:54:04'}
+2025-04-05 07:24:15,774 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 87.31, 'overspeeding': 8, 'timestamp': '01:54:15'}
+2025-04-05 07:24:20,541 - INFO - Frontend connected to WebSocket.
+2025-04-05 07:24:27,098 - DEBUG - Parsed JSON: {'vehicle_count': 22, 'vehicle_types': {'car': 18, 'truck': 4}, 'average_speed': 71.01, 'overspeeding': 7, 'timestamp': '01:54:27'}
+2025-04-05 07:24:42,949 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 78.39, 'overspeeding': 6, 'timestamp': '01:54:42'}
+2025-04-05 07:24:58,387 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'bus': 1, 'car': 17, 'truck': 2}, 'average_speed': 72.91, 'overspeeding': 7, 'timestamp': '01:54:58'}
+2025-04-05 07:25:14,009 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'truck': 2, 'car': 17}, 'average_speed': 72.68, 'overspeeding': 6, 'timestamp': '01:55:13'}
+2025-04-05 07:25:29,664 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'truck': 1, 'car': 16, 'bus': 1}, 'average_speed': 76.41, 'overspeeding': 7, 'timestamp': '01:55:29'}
+2025-04-05 07:25:45,725 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'truck': 2, 'car': 15}, 'average_speed': 80.15, 'overspeeding': 7, 'timestamp': '01:55:45'}
+2025-04-05 07:26:01,205 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'truck': 3, 'car': 15}, 'average_speed': 70.85, 'overspeeding': 7, 'timestamp': '01:56:01'}
+2025-04-05 07:26:16,639 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 75.72, 'overspeeding': 7, 'timestamp': '01:56:16'}
+2025-04-05 07:26:32,439 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'car': 18, 'truck': 2}, 'average_speed': 88.32, 'overspeeding': 8, 'timestamp': '01:56:32'}
+2025-04-05 07:26:48,615 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 17, 'truck': 2}, 'average_speed': 83.2, 'overspeeding': 7, 'timestamp': '01:56:48'}
+2025-04-05 07:27:04,659 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 17, 'truck': 2}, 'average_speed': 77.69, 'overspeeding': 8, 'timestamp': '01:57:04'}
+2025-04-05 07:27:21,256 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'truck': 3, 'car': 17}, 'average_speed': 70.63, 'overspeeding': 8, 'timestamp': '01:57:21'}
+2025-04-05 07:27:32,437 - DEBUG - Parsed JSON: {'vehicle_count': 21, 'vehicle_types': {'car': 17, 'truck': 4}, 'average_speed': 67.08, 'overspeeding': 6, 'timestamp': '01:57:32'}
+2025-04-05 07:27:42,866 - DEBUG - Parsed JSON: {'vehicle_count': 20, 'vehicle_types': {'car': 17, 'truck': 3}, 'average_speed': 77.05, 'overspeeding': 7, 'timestamp': '01:57:42'}
+2025-04-05 07:27:52,976 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 16, 'truck': 2}, 'average_speed': 75.41, 'overspeeding': 6, 'timestamp': '01:57:52'}
+2025-04-05 07:27:59,612 - INFO - Frontend connected to WebSocket.
+2025-04-05 07:28:05,814 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 71.64, 'overspeeding': 5, 'timestamp': '01:58:05'}
+2025-04-05 07:28:21,483 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 75.59, 'overspeeding': 6, 'timestamp': '01:58:21'}
+2025-04-05 07:28:37,657 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 16, 'truck': 2}, 'average_speed': 76.95, 'overspeeding': 6, 'timestamp': '01:58:37'}
+2025-04-05 07:28:54,036 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 84.9, 'overspeeding': 6, 'timestamp': '01:58:54'}
+2025-04-05 07:29:10,023 - DEBUG - Parsed JSON: {'vehicle_count': 15, 'vehicle_types': {'car': 13, 'truck': 2}, 'average_speed': 82.77, 'overspeeding': 5, 'timestamp': '01:59:10'}
+2025-04-05 07:29:26,048 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 79.22, 'overspeeding': 5, 'timestamp': '01:59:26'}
+2025-04-05 07:29:42,193 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 75.36, 'overspeeding': 5, 'timestamp': '01:59:42'}
+2025-04-05 07:29:57,970 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 76.18, 'overspeeding': 5, 'timestamp': '01:59:57'}
+2025-04-05 07:30:08,616 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 72.98, 'overspeeding': 5, 'timestamp': '02:00:08'}
+2025-04-05 07:30:24,203 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 81.05, 'overspeeding': 6, 'timestamp': '02:00:24'}
+2025-04-05 07:30:40,292 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 14, 'truck': 2}, 'average_speed': 77.74, 'overspeeding': 5, 'timestamp': '02:00:40'}
+2025-04-05 07:30:56,629 - DEBUG - Parsed JSON: {'vehicle_count': 14, 'vehicle_types': {'car': 12, 'truck': 2}, 'average_speed': 71.17, 'overspeeding': 4, 'timestamp': '02:00:56'}
+2025-04-05 07:31:13,042 - DEBUG - Parsed JSON: {'vehicle_count': 16, 'vehicle_types': {'car': 13, 'truck': 2, 'motorcycle': 1}, 'average_speed': 57.33, 'overspeeding': 3, 'timestamp': '02:01:13'}
+2025-04-05 07:31:29,476 - DEBUG - Parsed JSON: {'vehicle_count': 15, 'vehicle_types': {'car': 13, 'truck': 2}, 'average_speed': 56.87, 'overspeeding': 2, 'timestamp': '02:01:29'}
+2025-04-05 07:31:45,888 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 15, 'truck': 2}, 'average_speed': 56.17, 'overspeeding': 3, 'timestamp': '02:01:45'}
+2025-04-05 07:32:02,081 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 54.56, 'overspeeding': 3, 'timestamp': '02:02:02'}
+2025-04-05 07:32:45,977 - INFO - Frontend connected to WebSocket.
+2025-04-05 07:33:00,677 - INFO - Frontend connected to WebSocket.
+2025-04-05 07:33:13,539 - INFO - Frontend connected to WebSocket.
+2025-04-05 07:33:16,289 - INFO - Frontend connected to WebSocket.
+2025-04-05 07:34:01,264 - INFO - Frontend connected to WebSocket.
+2025-04-05 11:06:01,158 - INFO -  * Restarting with stat
+2025-04-05 11:06:02,384 - WARNING -  * Debugger is active!
+2025-04-05 11:06:02,388 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 11:06:17,658 - INFO -  * Restarting with stat
+2025-04-05 11:06:18,362 - WARNING -  * Debugger is active!
+2025-04-05 11:06:18,365 - INFO -  * Debugger PIN: 179-992-115
+2025-04-05 11:06:41,530 - INFO - Frontend connected to WebSocket.
+2025-04-05 11:06:54,073 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 0.0, 'overspeeding': 0, 'timestamp': '05:36:54'}
+2025-04-05 11:07:08,238 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 0.8, 'overspeeding': 0, 'timestamp': '05:37:08'}
+2025-04-05 11:07:24,248 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 41.93, 'overspeeding': 3, 'timestamp': '05:37:24'}
+2025-04-05 11:07:40,324 - DEBUG - Parsed JSON: {'vehicle_count': 21, 'vehicle_types': {'car': 17, 'truck': 4}, 'average_speed': 63.09, 'overspeeding': 6, 'timestamp': '05:37:40'}
+2025-04-05 11:07:56,716 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 89.34, 'overspeeding': 7, 'timestamp': '05:37:56'}
+2025-04-05 11:08:02,316 - INFO - Frontend connected to WebSocket.
+2025-04-05 11:08:13,806 - DEBUG - Parsed JSON: {'vehicle_count': 19, 'vehicle_types': {'car': 16, 'truck': 3}, 'average_speed': 88.41, 'overspeeding': 8, 'timestamp': '05:38:13'}
+2025-04-05 11:08:29,986 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 14, 'truck': 3}, 'average_speed': 95.24, 'overspeeding': 8, 'timestamp': '05:38:29'}
+2025-04-05 11:08:46,243 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 14, 'truck': 3}, 'average_speed': 92.47, 'overspeeding': 8, 'timestamp': '05:38:46'}
+2025-04-05 11:09:02,892 - DEBUG - Parsed JSON: {'vehicle_count': 18, 'vehicle_types': {'car': 15, 'truck': 3}, 'average_speed': 88.76, 'overspeeding': 8, 'timestamp': '05:39:02'}
+2025-04-05 11:09:19,381 - DEBUG - Parsed JSON: {'vehicle_count': 17, 'vehicle_types': {'car': 14, 'truck': 3}, 'average_speed': 88.79, 'overspeeding': 7, 'timestamp': '05:39:19'}

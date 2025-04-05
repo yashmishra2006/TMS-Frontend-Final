@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home - Traffic Monitoring Dashboard</title>
+  <!-- Google Fonts for futuristic feel -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/analysis.css') }}">
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+
+</head>
+<body>
+  <!-- Top Navigation Bar -->
+  <nav class="topnav">
+    <div class="logo">RASTRAK</div> <!-- Website Name -->
+    <ul>
+      <li><a href="./" class="active">Home</a></li>
+      <li><a href="./upload">Upload</a></li>
+      <li><a href="./processed">Processed Videos</a></li>
+      <li><a href="./analysis">Analysis</a></li>
+    </ul>
+  </nav>
+  
+
+  <div class="main-container">
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+      <nav>
+        <ul>
+          <li class="sidebar-header">Traffic Flow Analysis</li>
+          <li class="nav-item active " data-target="section-vehicle-count"><div class="light-red"></div>Vehicle Count</li>
+          <li class="nav-item" data-target="section-vehicle-category"><div class="light-yellow"></div>Vehicle Category Distribution</li>
+          <li class="nav-item" data-target="section-traffic-density"><div class="light-green"></div> Traffic Density Heatmap</li>
+          <li class="sidebar-header">Speed Analysis</li>
+          <li class="nav-item" data-target="section-high-speed"><div class="light-red"></div>High-Speed Violations</li>
+          <li class="nav-item" data-target="section-speed-distribution"><div class="light-green"></div>Speed Distribution Graph</li>
+        </ul>
+      </nav>
+    </aside>
+
+    
+    <!-- Main Content Area -->
+    <section class="content">
+      <div id="section-vehicle-count" class="card content-section">
+        <h2>Vehicle Count</h2>
+        <p>Total vehicles detected per second.</p>
+        <canvas id="vehicleCountChart"></canvas>
+      </div>
+
+      <div id="section-vehicle-category" class="card content-section" style="display: none;">
+        <h2>Vehicle Category Distribution</h2>
+        <p>Breakdown of vehicle types (cars, bikes, trucks, buses).</p>
+        <canvas id="vehicleCategoryChart"></canvas>
+      </div>
+
+      <div id="section-traffic-density" class="card content-section" style="display: none;">
+        <h2>Traffic Density Heatmap</h2>
+        <p>Shows congestion levels at different time slots.</p>
+        <canvas id="trafficDensityChart"></canvas>
+      </div>
+
+      <div id="section-high-speed" class="card content-section" style="display: none;">
+        <h2>High-Speed Violations</h2>
+        <p>Logs vehicles exceeding speed limits.</p>
+        <canvas id="highSpeedChart"></canvas>
+      </div>
+
+      <div id="section-speed-distribution" class="card content-section" style="display: none;">
+        <h2>Speed Distribution Graph</h2>
+        <p>Histogram of speed variations across time.</p>
+        <canvas id="speedDistributionChart"></canvas>
+      </div>
+    </section>
+  </div>
+
+  <!-- Link External JavaScript -->
+  <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+</body>
+
+<script type="application/json" id="initial-data">
+  {{ data | tojson | safe if data else '{}' }}
+</script>
+
+
+</html>
